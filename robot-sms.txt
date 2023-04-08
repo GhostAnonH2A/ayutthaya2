@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smss.ayutthaya2.go.th/14020002/css/slot-jepang/sitemap.xml
